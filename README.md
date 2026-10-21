@@ -1,0 +1,1 @@
+Aqui va a haber una aplicación sencilla para probar git en local y github , como funcionan las branches y los conflictos de los controladores de versiones asi como la práctica de su resolucion desde el IDE
