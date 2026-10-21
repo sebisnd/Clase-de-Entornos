@@ -5,7 +5,7 @@ public class entornos {
 		Scanner teclado = new Scanner(System.in);
 		System.out.print("Introduce tu edad completo con espacios: ");
 		String nombre = teclado.nextLine();
-		System.out.print("Introduce tu edad: ");
+		System.out.print("Introduce tu edad por favor: ");
 		int edad = teclado.nextInt();
 		System.out.println("¡Hola, " + nombre + "! Tienes " + edad + " años.");
 	}
